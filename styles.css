@@ -1,0 +1,11 @@
+body{
+    text-align:center;
+    background-color: beige;
+  }
+  .chem{
+     text-shadow: 1.5px 1.5px #ADD8E6;
+     
+  }
+  .img{
+    box-shadow: 5px 5px #ADD8E6;
+  }
